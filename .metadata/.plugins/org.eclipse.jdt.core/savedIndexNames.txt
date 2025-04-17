@@ -1,3 +1,0 @@
-INDEX VERSION 1.131+D:\CapgWithEclipse1.3\.metadata\.plugins\org.eclipse.jdt.core
-3413725848.index
-2015085105.index
